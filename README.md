@@ -9,9 +9,9 @@ Maintain a full audit log of missing or invalid records for compliance purposes.
 
  Features:- Upload and clean patient scan data.
 Risk Alert detection:
-High Risk
-Moderate Risk
-Cleared (Low Risk)
+High Risk,
+Moderate Risk,
+Cleared (Low Risk).
 Interactive bar chart of patient distribution by scan test type (MRI, CT, X-ray).
 Pie chart showing risk distribution.
 Audit log for rows with missing Signal scores.
