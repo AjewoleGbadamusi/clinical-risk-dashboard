@@ -1,0 +1,10 @@
+ID,Name,Test,Signal,Reason Skipped
+A003,Uma,CT,,Missing Signal Score
+A005,Luna,X-ray,,Missing Signal Score
+A011,Alice,MRI,,Missing Signal Score
+A028,Daya,X-ray,,Missing Signal Score
+A049,Zane,CT,,Missing Signal Score
+A051,Uma,MRI,,Missing Signal Score
+A065,Wade,MRI,,Missing Signal Score
+A095,Oscar,X-ray,,Missing Signal Score
+A099,Wade,X-ray,,Missing Signal Score
