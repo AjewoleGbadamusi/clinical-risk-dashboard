@@ -1,4 +1,5 @@
 # clinical-risk-dashboard
+🚀 [Click Here to View Live Dashboard](https://clinical-risk-dashboard-wwkucfdrrkifdcb8rbedwn.streamlit.app/)
 
 A Streamlit dashboard for clinical patient scan risk analysis with real-time risk alerts, visualizations, and data audit logs. A real-time clinical risk triage dashboard built with Python and Streamlit.
 This dashboard allows clinicians to:
