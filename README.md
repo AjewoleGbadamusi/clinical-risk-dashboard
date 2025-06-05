@@ -24,3 +24,11 @@ Real-time dashboard generation timestamp.
 This project simulates a real clinical workflow where patient scan data is triaged for potential risk based on signal strength. The dashboard processes raw CSV files, flags high/moderate risk patients, visualizes the distribution of scan types and risk levels, and provides a timestamped audit-ready report.
  
  Key Learning Outcomes:- Building real-world dashboards without front-end coding.- Data cleaning, risk logic, and visualization.- Export-ready, audit-friendly clinical reporting
+
+## Installation
+
+Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
